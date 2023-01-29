@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+statsmodels
+scikit-learn
+nltk
+scipy
+requests
+PyYAML
+evidently
